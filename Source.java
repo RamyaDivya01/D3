@@ -5,6 +5,6 @@ public class Source {
 
         int a = 1, b = 2;
         int sum = a + b;
-        System.out.println("The sum is :", sum);
+        System.out.print(sum);
     }
 }
